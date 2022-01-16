@@ -8,7 +8,7 @@ module.exports = {
 
                 // Socials Grid
                 sc: { max: "1079px" },
-                // => @media (max-width: 770px) { ... }
+                // => @media (max-width: 1079px) { ... }
 
                 sm: { max: "639px" },
                 // => @media (max-width: 639px) { ... }
